@@ -1,0 +1,22 @@
+{
+  "name": "annoy-me",
+  "version": "1.0.0",
+  "description": "An annoying electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/KonradLinkowski/AnnoyMe",
+  "keywords": [
+    "electron",
+    "virus",
+    "hack",
+    "annoying",
+    "black"
+  ],
+  "author": "Konrad linkowski",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^8.1.1"
+  }
+}
